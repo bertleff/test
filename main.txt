@@ -2,3 +2,4 @@ MainBranch
 	+ChildLocal
 	+AdditionalChange
 	CheckIfThisCanBeAddedWithoutSwitch
+	Stash
